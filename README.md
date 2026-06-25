@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/5b/a6/57/5ba657eeb6e8b91cbd396a99bcd24f7d.jpg" alt="Banner" width="100%" />
+  <img src="[https://i.pinimg.com/1200x/5b/a6/57/5ba657eeb6e8b91cbd396a99bcd24f7d.jpg](https://i.pinimg.com/originals/e7/ee/0c/e7ee0cc6349b96ace238e74461965883.gif)" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Salut, moi c'est <span style="color:#00aaff;">Xaineur</span> 天使</h1>
