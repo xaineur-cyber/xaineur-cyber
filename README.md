@@ -23,7 +23,7 @@
 ```text
 💻 Développement web — HTML, CSS, JavaScript
 ⚙️  En cours d'apprentissage — C++
-🤖 Projet principal — Aiko (bots Discord de gestion & ticketing)
+🤖 Projet principal — Aiko (bots Discord de gestion & ticket)
 🧠 Toujours en train de construire, apprendre et m'améliorer
 💬 Discord — xaineur
 ```
