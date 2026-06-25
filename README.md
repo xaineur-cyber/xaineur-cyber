@@ -64,14 +64,6 @@
 
 ---
 
-### 🐍 Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xaineur/xaineur/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
-</p>
-
----
-
 <p align="center">
   <i>✨ Build. Learn. Create. ✨</i>
 </p>
