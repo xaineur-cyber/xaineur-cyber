@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/1200x/af/4a/53/af4a53b087cbdfdcd966983d6b213ab1.jpg" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Salut, moi c'est <span style="color:#00aaff;">Xaineur</span> 天使</h1>
+<h1 align="center">Salut, moi c'est <span style="color:#00aaff;">Xaineur</span> </h1>
 <h3 align="center">🇫🇷 Développeur français · Web · Bots Discord · Toujours en apprentissage</h3>
 
 <p align="center">
